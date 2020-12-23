@@ -5,6 +5,6 @@ is a re-design of spotify's discover weekly playlist. Spotfiy 2.0 takes the firs
 # Usage 
 arg1 = 'YOUR SPOTIFY USERNAME'
 
-arg2 = 'NAME OF THE PLAYLIST'
+arg2 = 'NAME OF THE NEW PLAYLIST'
 
-Simply clone the repo. Then run 'bash discover.sh {arg1} {arg2}'
+Simply clone the repo. Then run 'bash discover.sh {arg1} {arg2}' passing in your username as the first arguement, and the name of the new playlist as the second. 
